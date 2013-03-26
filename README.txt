@@ -1,4 +1,3 @@
-
 SpookyHook
 -------------
 
@@ -12,8 +11,10 @@ Malware Analyst's Cookbook [1]
 Catching data
 -------------
 
-I had some trouble to get the data from an API call. Please check the hooked send()
-call for an example, but please note that this requires a cleanup, too.
+I had some trouble to get the data from an API call and it required several
+tries to get it working. Thus, the script is a mess. However, the hooked
+send() API call serves as an example, but please note that this still requires
+a cleanup.
 
 Status
 -------------
